@@ -1,5 +1,5 @@
 ## Hey, I'm Raneesh 👋
-![Personal banner](https://drive.google.com/uc?export=view&id=1v9tfkPSO9n4pqvivVx1wYSD-vvRKIr28)
+![Personal banner](https://drive.google.com/uc?export=view&id=1qhDm0Go170c9eXnOuC0QSh8ZakYXsMGH)
 
 I am a Software Engineer who is excited about creating avenues to 
 elevate humanity through technology. I am passionate about Full-Stack 
@@ -11,8 +11,8 @@ Software Engineering degree with First Class Honours.
 In my free time I perform as a vocalist and beatboxer in Harmonic.Distortion
 and work as a videographer and content writer at [Eyeris](https://eyeriscreations.com).
 
-### Find me online 🌐
-___
+## Find me online 🌐
+
 * Sharing memes on [Facebook](https://www.facebook.com/raneesh.gomez) :trollface:
 * Trying to be interesting on [Twitter](https://twitter.com/raneeshgo) 🌚
 * Being a professional on [Linkedin](https://www.linkedin.com/in/raneesh-gomez2307) 😎
