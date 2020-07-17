@@ -22,4 +22,4 @@ and work as a Videographer and Content Writer at **[Eyeris](https://eyeriscreati
 
 P.S. I'm one of the world's biggest Tolkien fans and a metalhead \m/🔥
 
-[LOTR GIF](https://thumbs.gfycat.com/CreamyBrokenFallowdeer-small.gif)
+![LOTR GIF](https://thumbs.gfycat.com/CreamyBrokenFallowdeer-small.gif)
