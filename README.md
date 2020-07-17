@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hey, I'm Raneesh 👋
+![Personal banner](./github-banner.png)
 
-<!--
-**codeSmart2307/codeSmart2307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineer who is excited about creating avenues to 
+elevate humanity through technology. I am passionate about Full-Stack 
+Web Development, with a special interest in API Design. Some technologies
+I enjoy working with are Angular, React, Node.js and Flask. I am a fresh 
+graduate from the University of Westminster, UK with a BEng (Hons) 
+Software Engineering degree with First Class Honours.
 
-Here are some ideas to get you started:
+In my free time I perform as a vocalist and beatboxer in Harmonic.Distortion
+and work as a videographer and content writer at [Eyeris](https://eyeriscreations.com).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Find me online 🌐
+___
+* Sharing memes on [Facebook](https://www.facebook.com/raneesh.gomez) :trollface:
+* Trying to be interesting on [Twitter](https://twitter.com/raneeshgo) 🌚
+* Being a professional on [Linkedin](https://www.linkedin.com/in/raneesh-gomez2307) 😎
+
+P.S. I am a huge Tolkien fanatic and ATLA buff 🔥
