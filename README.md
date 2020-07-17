@@ -1,5 +1,5 @@
 ## Hey, I'm Raneesh 👋
-![Personal banner](./github-banner.png)
+![Personal banner](https://drive.google.com/uc?export=view&id=1v9tfkPSO9n4pqvivVx1wYSD-vvRKIr28)
 
 I am a Software Engineer who is excited about creating avenues to 
 elevate humanity through technology. I am passionate about Full-Stack 
