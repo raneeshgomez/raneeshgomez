@@ -1,7 +1,7 @@
 ## Hey, I'm Raneesh 👋
 ![Personal banner](https://drive.google.com/uc?export=view&id=1RLBaSiSObBeNYMX6FKzQ0uZfplMelal_)
 
-I am a Software Engineer who is excited about creating avenues to 
+I am a Software Engineer who is excited about creating new avenues to 
 elevate humanity through technology. I am passionate about Full-Stack 
 Web Development, with a special interest in API Design. Some technologies
 I enjoy working with are **Angular, React, Node.js and Flask**. 
