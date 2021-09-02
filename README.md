@@ -17,9 +17,9 @@ and work as a Videographer and Content Writer at **[Eyeris](https://eyeriscreati
 ## Find me online 🌐
 
 * Sharing memes on [Facebook](https://www.facebook.com/raneesh.gomez) :trollface:
-* Trying to be interesting on [Twitter](https://twitter.com/raneeshgo) 🌚
-* Being a professional on [Linkedin](https://www.linkedin.com/in/raneesh-gomez2307) 😎
+* Struggling to be interesting on [Twitter](https://twitter.com/raneeshgo) 🌚
+* Acting professional on [Linkedin](https://www.linkedin.com/in/raneesh-gomez2307) 😎
 
-P.S. I'm one of the world's biggest Tolkien fans and a metalhead \m/🔥
+P.S. I could be one of the world's biggest Tolkien fans!
 
 ![LOTR GIF](https://thumbs.gfycat.com/CreamyBrokenFallowdeer-small.gif)
